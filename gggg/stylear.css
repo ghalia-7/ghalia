@@ -1,0 +1,100 @@
+@charset "utf-8";
+.container {
+    width: 1024px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+body {
+    background-color: #000000;
+    -webkit-box-shadow: inset 0px 0px;
+    box-shadow: inset 0px 0px;
+    background-image: url(img/background-adare-restaurant.jpg);
+    background-size: cover;
+    color: #000000;
+}
+
+
+.container .header {
+    height: 118px;
+    text-align: center;
+    padding-left: 41px;
+    padding-right: 41px;
+}
+nav {
+    margin-top: 14px;
+    margin-bottom: 14px;
+    background-color: #423E3F;
+    color: #FFFFFF;
+    margin-left: -8px;
+    text-align: center;
+}
+nav a {
+    color: #FCFCFC;
+    margin-left: 12px;
+    margin-right: 12px;
+    text-decoration: none;
+    font-size: 12px;
+}
+man {
+    height: 400px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 2400px;
+    padding-right: 240px;
+}
+main {
+    padding-left: 27px;
+    padding-bottom: 17px;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-size: 80px;
+    padding-left: 12px;
+    padding-bottom: 4px;
+    padding-top: 1px;
+    margin-left: 47px;
+    margin-right: 20px;
+    text-decoration: none;
+    text-align: center;
+}
+main p  {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    text-decoration: underline;
+}
+iframe  {
+    width: 1024px;
+    height: 500px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: auto;
+    padding-left: auto;
+}
+.map {
+    padding-bottom: 100px;
+}
+main a {
+    height: 400px;
+    color: #FFFBFB;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+footer  {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #393737;
+    height: 5px;
+}
+footer p {
+    color: #BFB7B7;
+    font-size: 10px;
+    text-align: center;
+}
